@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Web Development
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on any front-end project
-- 📫 How to reach me ...
+- 📫 How to reach me- shobowaleolaomopo@ymail.com
 
 <!---
 dharmypaul/dharmypaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
